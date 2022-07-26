@@ -1,0 +1,12 @@
+.menu-main {
+    width: 100%;
+    background-color: var(--vermelho);
+    padding: 8px;
+    text-align: center;
+}
+
+@media (max-width: 960px) {
+    .menu-main h3 {
+        font-size: 12px;
+    }
+}
