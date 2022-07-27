@@ -80,7 +80,5 @@ header h2 {
         width: 50%;
         height: 90px;
     }
-    .faixa-vermelha {
-        color: var(--branco);
-    }
+    
 }
